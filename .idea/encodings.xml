@@ -4,5 +4,8 @@
     <file url="file://$PROJECT_DIR$/bankservice/accounts/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bankservice/cards/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bankservice/loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bankservice1/accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bankservice1/cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bankservice1/loans/src/main/java" charset="UTF-8" />
   </component>
 </project>
